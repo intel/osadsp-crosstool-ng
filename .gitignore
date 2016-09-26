@@ -17,9 +17,13 @@ config.gen/
 .*.swp
 build.log
 .config.old
+lib/
+share/
 
 # This is the place where toolchains are built
 .build/
+builds/
+
 # .. and the legacy location
 targets/
 # .. and log for 'build-all'
