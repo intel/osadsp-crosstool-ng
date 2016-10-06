@@ -1,3 +1,7 @@
+# Crosstoll-NG with support for Baytrail audio DSP. 
+
+# Please read README.Intel to build baytrail audio DSP toolchain
+
 # Crosstool-NG [![Build Status][travis-status]][travis]
 
 Crosstool-NG follows the `autoconf` dance. So, to get you
